@@ -1,8 +1,30 @@
 {
     "global": {
-        "extended": false
+        "extended": true
     },
     "profiles": {
-        
+        "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}": {
+            "icon": "cmd.ico",
+            "label": "CMD"
+        },
+        "{a544534d-91a6-45a0-a882-42fcf3c8d07a}": {
+            "icon": "git-bash.ico"
+        },
+        "{7f586916-8357-53d4-bb2b-ca96f639898a}": {
+            "icon": "pengwin.ico",
+            "label": "Pengwin"
+        },
+        "61c54bbd-c2c6-5271-96e7-009a87ff44bf": {
+            "icon": "powershell.ico",
+            "label": "Powershell"
+        },
+        "0caa0dad-35be-5f56-a8ff-afceeeaa6110": {
+            "icon": "anaconda.ico",
+            "label": "Anaconda"
+        },
+        "{2c4de342-38b7-51cf-b940-2309a097f518}": {
+            "icon": "ubuntu.ico",
+            "label": "Ubuntu"
+        }
     }
 }
